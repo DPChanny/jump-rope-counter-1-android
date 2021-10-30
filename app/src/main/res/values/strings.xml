@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">줄넘기 카운터</string>
+    <string name="counter">카운터</string>
+    <string name="exit">나가기</string>
+    <string name="start">시작</string>
+    <string name="stop">종료</string>
+    <string name="jps">JPS</string>
+    <string name="isTimer">타이머 유무</string>
+    <string name="enterTime">시간(초) 입력</string>
+    <string name="leftTime">남은 시간(초): </string>
+</resources>
